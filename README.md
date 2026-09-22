@@ -2,8 +2,17 @@
 Helping Hand is an Online and Offline Disaster Management System for Govt. of Assam with motive to help government and people of Assam during disaster. This project is a part of a solution developed for Smart India Hackathon 2018 that received 1st runner up prize
 
 ## Summary
-Assam residents face critical problems due to sudden and unexpected occurrence of disaster which leads to loss of life and property. This problem is faced every year, so our solution acts as an effective tool providing right information and services at the right time to the person in need at the critical time of disaster. We present an approach which comes effective for giving forecasting of expected disaster in advance, helps in evacuating masses to safe locations providing safe routes and also providing a common platform for volunteers to reach out to the affected people, for government to monitor the entire state, organizing people in shelter and their basic needs. Using interactive videos and simple step by step advice through SMS and push notification we empower user on how to react in such situations. During disaster the main issue is internet connectivity so we have also provided these entire features mentioned above in offline mode as well. 
+Disaster management is the process of preparing for, mitigating, responding to, and recovering from disasters to minimize loss of life, property, and environment. It involves coordinated efforts by government, community, and organizations.
 
+Phases of Disaster Management:
+
+Mitigation – Measures to reduce disaster risks (e.g., earthquake-resistant buildings, flood control).
+
+Preparedness – Planning and training before disasters (e.g., evacuation drills, early warning systems).
+
+Response – Immediate actions during disaster (e.g., rescue, medical aid, relief distribution).
+
+Recovery – Long-term restoration and resilience building (e.g., rebuilding infrastructure, livelihood support).
 ## Introduction
 Helping Hand is an Online & Offline Disaster Management System for Govt. of Assam with motive to help government and people of Assam during disaster. Our system consists of three modules which are:
 
@@ -61,13 +70,5 @@ Currently our prototype supports the following features:
 * Providing a system capable of allowing users to communicate using a Bluetooth based mesh network at a time of no cellular network availability.
 
 ## Credits:
-#### Team SyncX:
-* [Sanika Biwalkar](https://www.github.com/sanikabiwalkar)
-* [Prathamesh Mhapsekar](https://github.com/prathmesh36)
-* [Mandar Mhapsekar](https://github.com/mandar10)
-* [Raj Patel](https://www.github.com/Raj-7799)
-* [Aniket Mhatre](https://github.com/aniketmhatre88)
-* [Ronak Doshi](https://github.com/Ronak-59)
-#### Mentors:
-* [Sahil Mhapsekar](https://www.github.com/apherio)
-* Archana Nanade
+* [VARANASI DIVYA SREE ]
+
