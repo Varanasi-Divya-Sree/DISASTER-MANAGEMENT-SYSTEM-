@@ -1,6 +1,9 @@
 # DISASTER-MANAGEMENT-SYSTEM
-Disaster Management System is an Online and Offline Disaster Management System for Govt. of Assam with motive to help government and people of Assam during disaster. This project is a part of a solution developed for Smart India Hackathon 2018 that received 1st runner up prize
-
+Disaster management is the organized process of dealing with disasters to reduce their impact.
+It covers natural hazards like floods, earthquakes, and cyclones, as well as man‑made crises.
+The main aim is to protect lives, property, and the environment through planned measures.
+It works through four phases: mitigation, preparedness, response, and recovery.
+Effective disaster management requires government, community, and institutional cooperation.
 ## Summary
 Disaster management is the process of preparing for, mitigating, responding to, and recovering from disasters to minimize loss of life, property, and environment. It involves coordinated efforts by government, community, and organizations.
 
